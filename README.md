@@ -1,7 +1,8 @@
 ### Practice REST API Using NestJS and Sequelize
 
 _Documentation by Romi Julianto_
-
+## Relations, Models
+* https://www.npmjs.com/package/sequelize-typescript
 ## Installation
 
 ```bash
